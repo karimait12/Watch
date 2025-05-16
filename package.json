@@ -2,9 +2,9 @@
   "name": "whatsapp-pairing",
   "version": "1.0.0",
   "description": "WhatsApp pairing with phone number",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node test.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@itsukichan/baileys": "^1.0.0",
